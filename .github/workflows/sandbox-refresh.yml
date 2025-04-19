@@ -33,3 +33,4 @@ jobs:
         DEBIAN_FRONTEND: noninteractive
       run: |
         docker image prune -a -f
+[![Sandbox Refresh](https://github.com/Leviana2024/datatracker/actions/workflows/sandbox-refresh.yml/badge.svg?event=check_run)](https://github.com/Leviana2024/datatracker/actions/workflows/sandbox-refresh.yml)
